@@ -1,2 +1,1 @@
-# regression_crab
-Code for regression analysis on the Crab Age Prediction dataset. Predict crab age based on physical measurements. Includes preprocessing, feature engineering, model building, and evaluation.
+This repository contains the code for a regression analysis performed on the Crab Age Prediction dataset. The code includes data preprocessing, feature engineering, model building using various regression algorithms, hyperparameter tuning, and evaluation. The goal is to predict the age of crabs based on their physical measurements. The analysis utilizes popular machine learning libraries and follows best practices in regression modeling. The code is well-documented and can serve as a reference for similar regression tasks.
